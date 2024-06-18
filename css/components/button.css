@@ -1,0 +1,17 @@
+.btn-black {
+  color: white;
+  padding: 15px 25px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #000000;
+  transition: background 0.3s ease;
+  z-index: 2;
+}
+
+.btn-black:hover {
+  opacity: 1;
+  background: #5c1717;
+  text-decoration: none;
+  color: white;
+  z-index: 2;
+}
